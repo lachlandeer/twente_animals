@@ -12,6 +12,6 @@ Giraffe
 
 # Favourite Australian Animals
 
-Koalas 
+Platypus 
 
 blah blah blah
