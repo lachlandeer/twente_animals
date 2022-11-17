@@ -1,5 +1,5 @@
 title: "The Best Paper About Animals"
-author: "Lachlan Deer"
+author: "Lachlan Deer, Daniel"
 
 # Introduction 
 
