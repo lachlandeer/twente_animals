@@ -8,4 +8,4 @@ Therefore this paper is going to document my favourites.
 
 # Favourite Animals!
 
-Orangutan
+Giraffe
