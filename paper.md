@@ -2,7 +2,6 @@ title: "The Best Paper About Animals"
 author: "Lachlan Deer, Daniel"
 
 # Introduction 
-
 Animals are the coolest. 
 Therefore this paper is going to document my favourites.
 
@@ -12,6 +11,6 @@ Giraffe
 
 # Favourite Australian Animals
 
-Platypus 
+Jellyfish 
 
 blah blah blah
